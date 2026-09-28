@@ -1,0 +1,40 @@
+CLEANO WEBSITE — BESTELLINKS TOEVOEGEN
+=========================================
+
+De website is klaar en bevat GEEN winkelmand en GEEN betaalomgeving.
+
+Als je later de echte URL's hebt:
+
+1. Open de map:
+   assets
+
+2. Open het bestand:
+   product-links.js
+
+3. Je ziet regels zoals:
+   "eco-afwasmiddel": "",
+
+4. Plak de echte URL tussen de aanhalingstekens:
+   "eco-afwasmiddel": "https://voorbeeld.nl/product",
+
+5. Sla het bestand op.
+
+Klaar. De knop "Bestellen" opent daarna automatisch
+de externe website in een nieuw tabblad.
+
+Je hoeft dus NIET alle HTML-pagina's één voor één te wijzigen.
+
+PRODUCTNAMEN OP DE WEBSITE
+--------------------------
+- Cleano Eco Vuilniszakken
+- Cleano Eco Sponzen
+- Cleano Eco Afwasmiddel
+- Cleano Eco Afwasmiddel Navulling
+- Cleano Dweilset
+- Cleano Eco Allesreiniger
+- Cleano Eco Allesreiniger Navulling
+- Cleano Stofzuiger
+- Cleano 3-delige Emmerset
+- Cleano Herbruikbare Vaatdoekjes
+
+Open index.html om de website te bekijken.
